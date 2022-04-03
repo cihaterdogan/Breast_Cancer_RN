@@ -19,3 +19,7 @@ Furthermore, in METABRIC dataset 69 miRNAs (34 of them were up-regulated and 35 
 70 miRNAs (31 up- and 39 down-regulated) in LumB group, and 31 miRNAs (17 up- and 14 down-regulated) in normal-like tumor group were differentially expressed, 
 when compared to the control samples. The top 10 up- and down-regulated miRNAs are given in (Table S14) and 9 up-regulated (Table S15) and 10 down-regulated miRNAs 
 (Table S16) were shared across all five PAM50 classes.  In addition, the up- and down-regulated miRNAs are listed in Tables S17-21 for each PAM50 subtype separately.
+
+The top 10 up-regulated and down-regulated genes in each PAM50 class compared to the control samples according to our established criteria are listed in Table S22. 
+Among the up-regulated genes, 746 were shared (Table S23) across all five PAM50 classes, whereas 650 down-regulated genes were shared (Table S24) across all five PAM50 
+classes. Additionally, the up- and down-regulated gene lists are provided in Tables S25-S29 for each PAM50 subtype individually.
