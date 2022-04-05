@@ -2,13 +2,16 @@
 The files for "Bioinformatics Analysis of the Potentially Functional circRNA-miRNA-mRNA Network in Breast Cancer"
 https://www.biorxiv.org/content/10.1101/2022.01.10.475557v1
 
+# Main Figures
+Main figures can be found in "Main figures.pptx".
+
 # Tables:
 Table 1: Essential characteristics of the three DECs. (Table_1.xlsx)
 
-Table 2: Expression levels of detected miRNA and possible target genes (Table_2.xlsx)
+Table 2: Expression levels of detected miRNA and possible target genes. (Table_2.xlsx)
 
 # Supplementary Figures:
-Supplementary figures can be found in "Supplementary -> Supplementary figures.pptx"
+Supplementary figures can be found in "Supplementary -> Supplementary figures.pptx".
 
 # Supplementary Tables:
 1- The details of the clinical data for each datasets can be found in Table S1 separately. (Supplementary -> Table S1.xlsx)
