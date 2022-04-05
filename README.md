@@ -1,6 +1,4 @@
-# Breast Cancer circRNA–miRNA–mRNA regulatory network
-Bioinformatics Analysis of the Potentially Functional circRNA-miRNA-mRNA Network in Breast Cancer
-
+# Bioinformatics Analysis of the Potentially Functional circRNA-miRNA-mRNA Network in Breast Cancer
 Supplementary files for "Bioinformatics Analysis of the Potentially Functional circRNA-miRNA-mRNA Network in Breast Cancer"
 https://www.biorxiv.org/content/10.1101/2022.01.10.475557v1
 
