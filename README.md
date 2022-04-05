@@ -1,10 +1,17 @@
 # Bioinformatics Analysis of the Potentially Functional circRNA-miRNA-mRNA Network in Breast Cancer
-Supplementary files for "Bioinformatics Analysis of the Potentially Functional circRNA-miRNA-mRNA Network in Breast Cancer"
+The files for "Bioinformatics Analysis of the Potentially Functional circRNA-miRNA-mRNA Network in Breast Cancer"
 https://www.biorxiv.org/content/10.1101/2022.01.10.475557v1
 
-1- The details of the clinical data for each datasets can be found in Table S1 separately.
+# Tables:
 
-2- We observed that 174 circRNAs (52 of them were up-regulated and 122 were down-regulated – given in Table S2) in GSE101124 and 993 circRNA (665 of them were up-regulated and 328 were down-regulated – given in Table S3) in GSE182471 in BC tumor samples were differentially expressed, when compared to the control samples.
+
+# Supplementary Figures:
+Supplementary figures can be found in "Supplementary figures.pptx"
+
+# Supplementary Tables:
+1- The details of the clinical data for each datasets can be found in Table S1 separately. (See Table S1.xlsx)
+
+2- We observed that 174 circRNAs (52 of them were up-regulated and 122 were down-regulated – given in Table S2) in GSE101124 and 993 circRNA (665 of them were up-regulated and 328 were down-regulated – given in Table S3) in GSE182471 in BC tumor samples were differentially expressed, when compared to the control samples. (See Table S2.xlsx and Table S3.xlsx)
 
 3- The overlapped up- and down-regulated circRNAs are given in Table S4 and Table S5 for each dataset separately.
 
