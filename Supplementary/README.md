@@ -2,7 +2,7 @@ Supplementary files for "Bioinformatics Analysis of the Potentially Functional c
 https://www.biorxiv.org/content/10.1101/2022.01.10.475557v1
 
 # Supplementary Figures:
-Supplementary figures can be found in "Supplementary -> Supplementary figures.pptx".
+Supplementary figures can be found in "Supplementary figures.pptx".
 
 # Supplementary Tables:
 1- The details of the clinical data for each datasets can be found in Table S1 separately.
