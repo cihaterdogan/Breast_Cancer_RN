@@ -4,6 +4,16 @@ authors:
 - family-names: "Erdogan"
   given-names: "Cihat"
   orcid: "https://orcid.org/0000-0001-5495-7754"
+- family-names: "Suer"
+  given-names: "Ilknur"
+- family-names: "Kaya"
+  given-names: "Murat"
+- family-names: "Kurt"
+  given-names: "Zeyneb"
+- family-names: "Ozturk"
+  given-names: "Sukru"
+- family-names: "Aydin"
+  given-names: "Nizamettin"
 title: "Bioinformatics Analysis of the Potentially Functional circRNA-miRNA-mRNA Network in Breast Cancer"
 version: 1.0.0
 doi: 10.5281/zenodo.6554070
